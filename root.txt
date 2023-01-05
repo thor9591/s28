@@ -1,4 +1,4 @@
-//s9
+//s28
 //.c
 #include<stdio.h>
 #include<stdlib.h>
